@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  color: #080505;
+    background-image: url(../../Downloads/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-3571.avif);
+  line-height: 1.5;
+}
+
+header {
+  background: #360486;
+  color: #fff;
+  text-align: center;
+  padding: 20px 20px;
+  font-size: large;
+}
+
+
+
+.section-container {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.section-container section {
+  background-color: #ffffff;
+  padding: 25px 30px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+
+
+section h2 {
+  border-left: 5px solid #360486;
+  padding-left: 10px;
+  margin-bottom: 15px;
+  color: #360486;
+}
+
+
+section ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+section li {
+  margin-bottom: 10px;
+}
+
+section h2 {
+  margin-top: 10px;
+  color: #360486;
+}
+
+
+
+footer {
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+  color: #777;
+  font-size: 0.9rem;
+}
